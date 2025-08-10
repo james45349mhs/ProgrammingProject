@@ -1,0 +1,5 @@
+Run these commands in your virtual environment:
+  pip install pandas Flask torch torchvision nltk pandas
+  python
+  >> import nltk
+  >> nltk.download('punkt_tab')

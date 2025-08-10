@@ -1,0 +1,468 @@
+{
+    "intents": [
+        {
+            "tag": "rowanFinances",
+            "patterns": [
+                "What scholarship opportunities are there?",
+                "How can I accept financial aid?",
+                "How can I calculate my loan fees?",
+                "Are there any tuition-free opportunities available through Rowan?",
+                "I want deadlines to apply for scholarships",
+                "Can I have the deadline for financial aid?"
+            ],
+            "responses": [
+                "For information on scholarshgip opportunities, financial aid, tuition fees, and frequently asked questions, visit: https://sites.rowan.edu/financial-aid/"
+            ]
+        },
+        {
+            "tag": "rowanAdmissions",
+            "patterns": [
+                "Are admissions easy?",
+                "What is the acceptance process like for Rowan?",
+                "When do I need to submit my application?",
+                "How do I apply?",
+                "When can my child apply to be accepted to Rowan?",
+                "Are there any application fees?",
+                "When are admissions due?"
+            ],
+            "responses": [
+                "The Rowan Admissions site offers concise and useful information for any undergraduates or graduates looking to apply to become a Rowan student. Please visit: https://admissions.rowan.edu/"
+            ]
+        },
+        {
+            "tag": "rowanSecurity",
+            "patterns": [
+                "Are there police on campus?",
+                "I wanna know about public safety on campus.",
+                "Will my child be safe on campus?",
+                "Is security at Rowan any good?"
+            ],
+            "responses": [
+                "Rowan offers a comprehensive public safety program for the university community. We provide numerous services through the following sections: Police, Security, Parking, Dispatch Center, Crime Prevention and the Office of Emergency Management. We focus on preventive patrols, crime prevention programming, and the physical establishment of Crime Prevention Through Environmental Design standards throughout our campuses. Find out more here: https://sites.rowan.edu/publicsafety/"
+            ]
+        },
+        {
+            "tag": "securitycontacts",
+            "patterns": [
+                "What are the contacts for public safety?",
+                "I need to contact the dispatch center",
+                "Can I get in contact with camden security?",
+                "I need to call about parking",
+                "Can I reach out to a crime tip hotline?",
+                "I feel as if I'm in danger on campus",
+                "I do not feel safe on campus"
+            ],
+            "responses": [
+                "List of contacts for Public Safety can be found here, including options for hearing impaired students: https://sites.rowan.edu/publicsafety/contactus.html "
+            ]
+        },
+        {
+            "tag": "genderinclusive",
+            "patterns": [
+                "Does Rowan offer Gender Inclusive Housing?",
+                "What housing does Rowan provide for LGBTQ students?",
+                "Is there housing for gender non comforming people?",
+                "Does Rowan offer queer inclusive housing?"
+            ],
+            "responses": [
+                "Yes, Rowan offers Gender-Inclusive Housing as an option to provide the greatest flexibility to our resident students and assure an environment that is welcoming, inclusive, and supportive of all students. Gender Inclusive Housing allows students to choose roommates and share bedrooms, suites, or apartments without restrictions based on gender or sex. The purpose of this policy is to create a campus climate that prioritizes diversity, equity, and belonging. To learn more, visit: https://sites.rowan.edu/housing/housing-options/gender-inclusive-housing.html "
+            ]
+        },
+        {
+            "tag": "rowanHousing",
+            "patterns": [
+                "What options are there for campus housing?",
+                "How many residence halls are there?",
+                "Does Rowan offer apartments for housing?",
+                "What are housing rates like?",
+                "Can I do laundry on campus?"
+            ],
+            "responses": [
+                "Boasting 7 residence halls, 4 apartment complexes, as well as offering affiliated housing with Nexus properties, Living Learning Communities, and Gender Inclusive housing opportunities, Rowan offers many different options for housing on campus. To learn more about your options for housing as well as services provided, please visit: https://sites.rowan.edu/housing/"
+            ]
+        },
+        {
+            "tag": "rowanInclusive",
+            "patterns": [
+                "Is Rowan an inclusive school?",
+                "How diverse can I expect Rowan university to be?",
+                "Is Rowan accessible for students with accomodations?",
+                "Can I expect my needs to be met when attending?"
+            ],
+            "responses": [
+                "Rowan University aims to be a model for higher education by being inclusive, agile, and responsive, offering diverse scholarly and creative educational experiences, pathways, environments, and services to meet the needs of all students; maintaining agility by strategically delivering organizational capacity across the institution; and responding to emerging demands and opportunities regionally and nationally."
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Are you there?",
+                "Is anyone there?",
+                "Hello",
+                "Howdy"
+            ],
+            "responses": [
+                "Hey there!",
+                "Hello! I am here and happy to help.",
+                "Heyo! Happy to see you. I'm ready to help whenever you'd like.",
+                "Hello! How can I help you?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Seeya",
+                "Thanks for the help",
+                "Goodbye",
+                "I am done for now"
+            ],
+            "responses": [
+                "Thank you for stopping by!",
+                "Goodbye! Have a good rest of your day.",
+                "See you some other time, and good luck!"
+            ]
+        },
+        {
+            "tag": "rowanwhat",
+            "patterns": [
+                "What is Rowan?",
+                "What does Rowan offer?",
+                "What can I expect out of Rowan?",
+                "Can you tell me about Rowan?",
+                "Tell me about Rowan."
+            ],
+            "responses": [
+                "Founded in 1923, Rowan University is a public research instituion offering bachelor and doctoral degrees, certifications, and inclusive learning to over 20,000 students in New Jersey. For a more extensive answer, please visit: https://www.rowan.edu/about/"
+            ]
+        },
+        {
+            "tag": "funny",
+            "patterns": [
+                "Say something funny",
+                "Tell me a joke",
+                "Can you make me laugh?",
+                "Can you tell a joke?"
+            ],
+            "responses": [
+                "I don't want to. Sorry!",
+                "What do you call a cow with no legs? Ground beef! :D",
+                "What has 2 eyes and 2 ears? Not me. I am not human. I am in your computer! :D"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "Do you have a name?",
+                "Tell me your name",
+                "What do I call you?",
+                "What is your name?"
+            ],
+            "responses": [
+                "My name is Rolland! Thank you for asking.",
+                "I am Rolland! How kind of you to ask."
+            ]
+        },
+        {
+            "tag": "3150",
+            "patterns": [
+                "What spots are available for Intro to Business and Analytics?",
+                "What spots are available for Intro to Business & Analytics for Financial Information?",
+                "Tell me what spots are available for Intro to Business & Analytics for Financial Information",
+                "What is the course number for Intro to Business & Analytics for Financial Information?"
+            ],
+            "responses": [
+                "Your desired course is course number #3150. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3210",
+            "patterns": [
+                "What spots are available for Principles of Business and Accounting I?",
+                "Tell me what spots are available for Principles of Business and Accounting I?",
+                "What is the course number for Principles of Business and Accounting I?"
+            ],
+            "responses": [
+                "Your desired course is course number #3210. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3211",
+            "patterns": [
+                "What spots are available for Principles of Business and Accounting II?",
+                "Tell me what spots are available for Principles of Business and Accounting II?",
+                "What is the course number for Principles of Business and Accounting II?"
+            ],
+            "responses": [
+                "Your desired course is course number #3211. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3300",
+            "patterns": [
+                "What spots are available for Supervised Internship in Accounting?",
+                "Tell me what spots are available for Supervised Internship in Accounting?",
+                "What is the course number for Supervised Internship in Accounting?"
+            ],
+            "responses": [
+                "Your desired course is course number #3300. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3301",
+            "patterns": [
+                "What spots are available for Accounting Analytics?",
+                "Tell me what spots are available for Accounting Analytics?",
+                "What is the course number for Accounting Analytics?"
+            ],
+            "responses": [
+                "Your desired course is course number #3301. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3310",
+            "patterns": [
+                "What spots are available for Intermediate Accounting I?",
+                "Tell me what spots are available for Intermediate Accounting I?",
+                "What is the course number for Intermediate Accounting I?"
+            ],
+            "responses": [
+                "Your desired course is course number #3310. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3311",
+            "patterns": [
+                "What spots are available for Intermediate Accounting II?",
+                "Tell me what spots are available for Intermediate Accounting II?",
+                "What is the course number for Intermediate Accounting II?"
+            ],
+            "responses": [
+                "Your desired course is course number #3311. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3320",
+            "patterns": [
+                "What spots are available for Accounting Information Systems?",
+                "Tell me what spots are available for Accounting Information Systems?",
+                "What is the course number for Accounting Information Systems?"
+            ],
+            "responses": [
+                "Your desired course is course number #3311. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3326",
+            "patterns": [
+                "What spots are available for Strategic Cost Analysis?",
+                "Tell me what spots are available for Strategic Cost Analysis?",
+                "What is the course number for Strategic Cost Analysis?"
+            ],
+            "responses": [
+                "Your desired course is course number #3326. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3326",
+            "patterns": [
+                "What spots are available for Strategic Cost Analysis?",
+                "Tell me what spots are available for Strategic Cost Analysis?",
+                "What is the course number for Strategic Cost Analysis?"
+            ],
+            "responses": [
+                "Your desired course is course number #3326. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3405",
+            "patterns": [
+                "What spots are available for Foundations of Accounting?",
+                "Tell me what spots are available for Foundations of Accounting?",
+                "What is the course number for Foundations of Accounting?"
+            ],
+            "responses": [
+                "Your desired course is course number #3405. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3410",
+            "patterns": [
+                "What spots are available for Auditing?",
+                "Tell me what spots are available for Auditing?",
+                "What is the course number for Auditing?"
+            ],
+            "responses": [
+                "Your desired course is course number #3410. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3416",
+            "patterns": [
+                "What spots are available for Advanced Accounting?",
+                "Tell me what spots are available for Advanced Accounting?",
+                "What is the course number for Advanced Accounting?"
+            ],
+            "responses": [
+                "Your desired course is course number #3416. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3428",
+            "patterns": [
+                "What spots are available for the Integrative Accounting Seminar?",
+                "Tell me what spots are available for the Integrative Accounting Seminar?",
+                "What is the course number for the Integrative Accounting Seminar?"
+            ],
+            "responses": [
+                "Your desired course is course number #3428. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3430",
+            "patterns": [
+                "What spots are available for Individual Taxation?",
+                "Tell me what spots are available for Individual Taxation?",
+                "What is the course number for Individual Taxation??"
+            ],
+            "responses": [
+                "Your desired course is course number #3430. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3431",
+            "patterns": [
+                "What spots are available for Taxation of Business Entities?",
+                "Tell me what spots are available for Taxation of Business Entities?",
+                "What is the course number for Taxation of Business Entities?"
+            ],
+            "responses": [
+                "Your desired course is course number #3431. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3432",
+            "patterns": [
+                "What spots are available for Federal Taxation?",
+                "Tell me what spots are available for Federal Taxation?",
+                "What is the course number for Federal Taxation?"
+            ],
+            "responses": [
+                "Your desired course is course number #3432. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3500",
+            "patterns": [
+                "What spots are available for Financial and Managerial Accounting?",
+                "Tell me what spots are available for Financial and Managerial Accounting?",
+                "What is the course number for Financial and Managerial Accounting?"
+            ],
+            "responses": [
+                "Your desired course is course number #3500. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "3507",
+            "patterns": [
+                "What spots are available for Government and Non For Profit Accounting?",
+                "Tell me what spots are available for Government and Non For Profit Accounting?",
+                "What is the course number for Government and Non For Profit Accounting?"
+            ],
+            "responses": [
+                "Your desired course is course number #3507. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "98300",
+            "patterns": [
+                "What spots are available for Law for Accountants?",
+                "Tell me what spots are available for Law for Accountants?",
+                "What is the course number for Law for Accountants?"
+            ],
+            "responses": [
+                "Your desired course is course number #98300. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4232",
+            "patterns": [
+                "What spots are available for Advertising Media Budgeting?",
+                "Tell me what spots are available for Advertising Media Budgeting?",
+                "What is the course number for Advertising Media Budgeting?"
+            ],
+            "responses": [
+                "Your desired course is course number #4232. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4330",
+            "patterns": [
+                "What spots are available for Intro to Advertising?",
+                "What spots are available for Introduction to Advertising?",
+                "Tell me what spots are available for Intro to Advertising?",
+                "What is the course number for Intro to Advertising?"
+            ],
+            "responses": [
+                "Your desired course is course number #4330. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4352",
+            "patterns": [
+                "What spots are available for Advertising Strategies?",
+                "Tell me what spots are available for Advertising Strategies?",
+                "What is the course number for Advertising Strategies?"
+            ],
+            "responses": [
+                "Your desired course is course number #4352. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4355",
+            "patterns": [
+                "What spots are available for Advertising Practicum?",
+                "Tell me what spots are available for Advertising Practicum?",
+                "What is the course number for Advertising Practicum?"
+            ],
+            "responses": [
+                "Your desired course is course number #4355. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4360",
+            "patterns": [
+                "What spots are available for Integrated Marketing Communication?",
+                "Tell me what spots are available for Integrated Marketing Communication?",
+                "What is the course number for Integrated Marketing Communication?"
+            ],
+            "responses": [
+                "Your desired course is course number #4360. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4375",
+            "patterns": [
+                "What spots are available for Advertising Copyrighting?",
+                "Tell me what spots are available for Advertising Copyrighting?",
+                "What is the course number for Advertising Copyrighting?"
+            ],
+            "responses": [
+                "Your desired course is course number #4375. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        },
+        {
+            "tag": "4420",
+            "patterns": [
+                "What spots are available for Advertising Copyrighting?",
+                "Tell me what spots are available for Advertising Copyrighting?",
+                "What is the course number for Advertising Copyrighting?"
+            ],
+            "responses": [
+                "Your desired course is course number #4420. To find out what time slots are available, search the course # at: https://banner.rowan.edu/reports/reports.pl?task=Section_Tally"
+            ]
+        }
+    ]
+}
